@@ -1,0 +1,8 @@
+title: My DevOps Blog
+description: A sample DevOps-based blog with CI/CD
+baseurl: ""
+url: "https://Darkfire25.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
