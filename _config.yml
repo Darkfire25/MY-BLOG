@@ -1,0 +1,8 @@
+title: My DevOps Blog
+description: A sample DevOps-based blog with CI/CD
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://<your-github-username>.github.io" # replace with your GitHub Pages URL
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
